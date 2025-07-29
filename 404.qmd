@@ -1,0 +1,9 @@
+---
+title: Page Not Found
+---
+
+The page you requested cannot be found[^1].
+
+[^1]: Perhaps it was moved or renamed?
+
+![](https://media.giphy.com/media/12XMGIWtrHBl5e/giphy.gif)

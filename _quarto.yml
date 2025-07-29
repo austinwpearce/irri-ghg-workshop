@@ -1,0 +1,67 @@
+project:
+  type: website
+  # output-dir: docs # for flexibility in building GitHub pages
+
+website:
+  title: "Title"
+  navbar:
+    background: "#000000"
+    foreground: "#f1f1f1"
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      
+      
+  sidebar:
+    title: "**Title**"
+    style: docked
+    search: true
+    collapse-level: 2
+    align: center
+    foreground: "#000000"
+    background: "#f1f1f1"
+    tools: 
+      - icon: github
+    contents:
+      - about.qmd
+      - "---"
+      - section: "**Section**"
+        contents:
+        - "about.qmd"
+        - "about.qmd"
+      - "---"
+      - section: "**Section 2**"
+        contents:
+        - section: "Subsection"
+          file: "about.qmd"
+          contents:
+            - auto: folder/*
+            - section: Subsection
+              contents:
+                - auto: "folder/dev/*"
+
+format:
+  html:
+    quarto-required: ">=1.7.32" # older versions may contain less features
+    theme:
+      light: assets/theme.scss
+      dark: vapor
+    linestretch: 1.33
+    css: theme.scss
+    # Table of Contents
+    toc: true
+    toc-location: right
+    toc-depth: 2
+    # Figures and Tables
+    fig-align: center
+    fig-cap-location: margin
+    tbl-cap-location: top
+    # References
+    reference-location: margin
+    ## Code
+    code-block-border-left: true
+    code-block-bg: true
+
+editor: visual
+
