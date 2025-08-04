@@ -1,0 +1,28 @@
+---
+title: Tagalog for Agriculture
+author: Austin Pearce
+date: '2025-08-04'
+description: "Ano ang 'farmer' sa Tagalog?"
+image: "Guagua-Rice-Harvest-2010-Nov.jpg"
+lightbox: true
+---
+
+# Glossary
+
+| English                    | Tagalog       | Col3 |
+|----------------------------|---------------|------|
+| boots (rubber)             | b**o**tas     |      |
+| farmer                     | magsasak**a** |      |
+| flower                     | bulakl**a**k  |      |
+| gardener                   | hardin**e**ro |      |
+| grass                      | dam**o**      |      |
+| hat                        | sumbr**e**ro  |      |
+| landowner/plantation owner | asind**e**ro  |      |
+| mountain                   | bund**o**k    |      |
+| seashore (coast, beach)    | tabing-dagat  |      |
+| sky                        | l**a**ngit    |      |
+| tree                       | p**u**no      |      |
+
+::: column-screen
+![](Guagua-Rice-Harvest-2010-Nov.jpg){fig-align="center" width="1920"}
+:::
