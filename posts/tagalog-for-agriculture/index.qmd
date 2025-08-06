@@ -1,7 +1,7 @@
 ---
 title: Tagalog for Agriculture
 author: Austin Pearce
-date: '2025-08-04'
+date: '2025-08-06'
 description: "Ano ang 'farmer' sa Tagalog?"
 image: "Guagua-Rice-Harvest-2010-Nov.jpg"
 lightbox: true
@@ -9,19 +9,54 @@ lightbox: true
 
 # Glossary
 
-| English                    | Tagalog       | Col3 |
-|----------------------------|---------------|------|
-| boots (rubber)             | b**o**tas     |      |
-| farmer                     | magsasak**a** |      |
-| flower                     | bulakl**a**k  |      |
-| gardener                   | hardin**e**ro |      |
-| grass                      | dam**o**      |      |
-| hat                        | sumbr**e**ro  |      |
-| landowner/plantation owner | asind**e**ro  |      |
-| mountain                   | bund**o**k    |      |
-| seashore (coast, beach)    | tabing-dagat  |      |
-| sky                        | l**a**ngit    |      |
-| tree                       | p**u**no      |      |
+| English                         | Tagalog                            |
+|---------------------------------|------------------------------------|
+| boots (rubber)                  | b**o**tas                          |
+| blue                            | bugh**a**w/as**u**l                |
+| brown                           | kaymanggi'/bra**u**n/tsokol**a**te |
+| cold                            | malam**i**g                        |
+| color                           | kulay                              |
+| dark (brightness)               | madilim                            |
+| dark/black (color)              | maitim                             |
+| deep                            | mal**a**lim                        |
+| farmer                          | magsasak**a**                      |
+| flower                          | bulakl**a**k                       |
+| foul-smelling                   | mab**a**ho'                        |
+| fragrant                        | mabang**o**                        |
+| gardener                        | hardin**e**ro                      |
+| golden                          | kulay-ginto                        |
+| green                           | lunti**a**n/b**e**rde              |
+| grass                           | dam**o**                           |
+| hat                             | sumbr**e**ro                       |
+| hot                             | ma**i**nit                         |
+| landowner/plantation owner      | asind**e**ro                       |
+| light[^1]                       | liwanag                            |
+| light (lamp)                    | **i**law                           |
+| mango                           | mangg**a**                         |
+| mountain                        | bund**o**k                         |
+| plow                            | ar**a**ro                          |
+| pump                            | b**o**mba                          |
+| rain/rainy                      | ul**a**n/maul**a**n                |
+| rice (plant/grain with husk)    | p**a**lay                          |
+| rice (harvested, husk removed)  | bigas                              |
+| rice husk                       | **i**pa                            |
+| rice (cooked)                   | k**a**nin                          |
+| rice (cold, leftover)           | bahaw                              |
+| rice (toasted at bottom of pot) | tutong                             |
+| rice (sticky)                   | mal**a**gkit                       |
+| rice (fried)                    | sinang**a**g                       |
+| rectangular                     | rekt**a**nggulo                    |
+| round                           | bil**o**g                          |
+| seashore (coast, beach)         | tabing-dagat                       |
+| scythe/sickle                   | k**a**rit                          |
+| shallow                         | mab**a**baw                        |
+| sky                             | l**a**ngit                         |
+| tree                            | p**u**no                           |
+| water                           | tubig                              |
+| wind/windy                      | h**a**ngin/mah**a**ngin            |
+| yellow                          | dil**a**w                          |
+
+[^1]: as in light from the sun.
 
 ::: column-screen
 ![](Guagua-Rice-Harvest-2010-Nov.jpg){fig-align="center" width="1920"}
