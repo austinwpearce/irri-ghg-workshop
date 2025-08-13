@@ -11,18 +11,31 @@ lightbox: true
 
 | English                         | Tagalog                            |
 |---------------------------------|------------------------------------|
+| air                             | h**a**ngin                         |
 | boots (rubber)                  | b**o**tas                          |
 | blue                            | bugh**a**w/as**u**l                |
 | brown                           | kaymanggi'/bra**u**n/tsokol**a**te |
+| carabow/water buffalo           | kalab**a**w                        |
+| cloud/fog                       | **u**lap                           |
 | cold                            | malam**i**g                        |
 | color                           | kulay                              |
+| creek/stream                    | s**a**pa'                          |
 | dark (brightness)               | madilim                            |
 | dark/black (color)              | maitim                             |
+| dawn/sunrise                    | madal**i**ng-**a**raw              |
 | deep                            | mal**a**lim                        |
+| dew                             | ham**o**g                          |
+| drizzle/light rain shower       | amb**o**n                          |
+| dusk/twilight                   | takips**i**lim                     |
+| dust                            | alikab**o**k                       |
 | farmer                          | magsasak**a**                      |
+| field                           | b**u**kid                          |
+| fire/flame                      | ap**o**y                           |
 | flower                          | bulakl**a**k                       |
 | foul-smelling                   | mab**a**ho'                        |
+| forest                          | g**u**bat                          |
 | fragrant                        | mabang**o**                        |
+| fruit                           | b**u**nga                          |
 | gardener                        | hardin**e**ro                      |
 | golden                          | kulay-ginto                        |
 | green                           | lunti**a**n/b**e**rde              |
@@ -30,29 +43,43 @@ lightbox: true
 | hat                             | sumbr**e**ro                       |
 | hot                             | ma**i**nit                         |
 | landowner/plantation owner      | asind**e**ro                       |
+| leaf                            | d**a**hon                          |
 | light[^1]                       | liwanag                            |
 | light (lamp)                    | **i**law                           |
 | mango                           | mangg**a**                         |
 | mountain                        | bund**o**k                         |
+| mud                             | p**u**tik                          |
 | plow                            | ar**a**ro                          |
 | pump                            | b**o**mba                          |
 | rain/rainy                      | ul**a**n/maul**a**n                |
 | rice (plant/grain with husk)    | p**a**lay                          |
-| rice (harvested, husk removed)  | bigas                              |
+| rice (harvested, husk removed)  | big**a**s                          |
 | rice husk                       | **i**pa                            |
 | rice (cooked)                   | k**a**nin                          |
 | rice (cold, leftover)           | bahaw                              |
 | rice (toasted at bottom of pot) | tutong                             |
 | rice (sticky)                   | mal**a**gkit                       |
 | rice (fried)                    | sinang**a**g                       |
+| river                           | **i**log                           |
 | rectangular                     | rekt**a**nggulo                    |
+| root                            | ug**a**t                           |
 | round                           | bil**o**g                          |
+| sand                            | buh**a**ngin                       |
 | seashore (coast, beach)         | tabing-dagat                       |
+| seed                            | but**o**                           |
 | scythe/sickle                   | k**a**rit                          |
 | shallow                         | mab**a**baw                        |
 | sky                             | l**a**ngit                         |
+| soil                            | l**u**pa'                          |
+| soy bean                        | bal**a**tong                       |
+| stem/branch                     | sang**a**                          |
+| stone                           | bat**o**                           |
+| storm (tropical, typhoon)       | bagy**o**                          |
+| sun                             | **a**raw                           |
 | tree                            | p**u**no                           |
-| water                           | tubig                              |
+| valley                          | lamb**a**k                         |
+| water                           | t**u**big                          |
+| wheat                           | tr**i**go                          |
 | wind/windy                      | h**a**ngin/mah**a**ngin            |
 | yellow                          | dil**a**w                          |
 
