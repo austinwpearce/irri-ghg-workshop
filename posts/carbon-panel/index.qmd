@@ -1,0 +1,15 @@
+---
+title: Carbon-Panel
+author: Austin Pearce
+date: '2025-08-27'
+---
+
+-   In the rice space there are only a handful of competitors all competing over a relatively few acres (compared to soybean, maize).
+
+<!-- -->
+
+-   The projects are fairly straightforward. Pay farmers to implement some AWD, verify with imagery that fields did indeed dry down, and make claims on the prevented/avoided emissions.
+
+-   The CEO of AgriCapture, Tyler Hull, posts commentary on how he sees the space evolving.
+
+-   CAR might have some documents about rice and projects
