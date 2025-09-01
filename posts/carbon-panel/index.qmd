@@ -1,15 +1,125 @@
 ---
 title: Carbon-Panel
 author: Austin Pearce
-date: '2025-08-27'
+date: '2025-09-02'
 ---
 
 -   In the rice space there are only a handful of competitors all competing over a relatively few acres (compared to soybean, maize).
-
-<!-- -->
 
 -   The projects are fairly straightforward. Pay farmers to implement some AWD, verify with imagery that fields did indeed dry down, and make claims on the prevented/avoided emissions.
 
 -   The CEO of AgriCapture, Tyler Hull, posts commentary on how he sees the space evolving.
 
 -   CAR might have some documents about rice and projects
+
+## Leveraging Markets
+
+*How can carbon markets be leveraged to drive the adoption of climate-smart rice farming practices at scale?*
+
+*In your experience, what benefits can a well-designed carbon credit program bring to smallholder rice farmers as well as to national climate objectives?*
+
+-   **Carrots and sticks.** Farmers will adapt their practices if there is a sufficient financial incentive. If a farmer can sell in a carbon market the positive outcomes associated with some practice, then there is an incentive to participate in the carbon markets. If those practices with positive outcomes can be implemented at scale, ...
+
+-   One characteristic challenge of creating a credit is maximizing the value of the credit while minimizing the cost of creating the credit. A well-designed carbon credit program would be one that has found a way to generate high quality, low risk credits with minimal MRV costs.
+
+## Project Integrity
+
+*What do you see as the main challenges in developing credible rice carbon credit projects? For instance, how does your organization tackle issues of additionality and ensure accurate monitoring/verification of methane reductions in rice fields?*
+
+-   Field to Market's Platform cannot be used to generate carbon credits. It helps with Scope 3 reporting, tracking cradle to gate emissions on the farm. So changes in practices would be reflected in the estimated emissions, but our Platform does not provide MRV services.
+
+-   Minimizing the cost of MRV.
+
+## Policy Frameworks
+
+*How can government policy or regulations support the integration of rice agriculture into carbon markets? Are there any countries considering linking rice carbon credits with their climate targets or creating incentives to boost such projects?*
+
+-   If a new regulation requires farmers to adopt a methane reducing practice, how would that impact the requirement of additionality in carbon markets?
+
+    -   All of a sudden, the methane reductions are incentivized through penalties instead of rewards.
+
+## Farmer Engagement
+
+*Carbon projects often require changes at the farm level. How do project developers or programs effectively engage rice farmers and ensure they receive a fair share of the carbon credit revenue? What strategies help in building trust and participation among farming communities?*
+
+Riceland is a farmer-owned cooperative in the US that is over 100 years old. Riceland launched their Carbon Ready program to assist their coop members in accessing the carbon inset market (scope 3 emission reductions purchased by the rice customers.) Over the 3 year project, they claimed a 95% farmer retention rate. Participating farms received on average \$20,000 in annual payouts. Also speaks to the size of the farms.
+
+The following they said has helped build trust:
+
+-   Very transparent with their farmers about what practices they will pay for, how verification will work, and how much they might pay.
+
+-   Do not resell the farmers data, the farmer owns the data.
+
+-   Farmers can withdraw at anytime before payout with no pressure, no questions asked.
+
+    -   I think that is fair, because again, much of this work is voluntary at the moment, not forced regulation.
+
+One of the board members of Field to Market is actually a rice farmer, and he has participated in various projects and has sold carbon credits. One thing he has shared is that for him, saving money on irrigation pumping due to practices like AWD was also a benefit. Fighting climate warming can be abstract, but saving on irrigation pumping costs is tangible. Maybe there is a lesson there when it comes to selling carbon programs to farmers.
+
+## Innovations in MRV
+
+*Measuring emissions from many small rice paddies can be complex. What new tools or innovations (such as digital MRV, remote sensing, or mobile apps) have you found useful in quantifying and verifying emissions reductions for rice carbon projects, and how do they improve feasibility?*
+
+-   As you know, methane emissions in rice are strongly dependent on flooding status. Let's consider current programs that are based on asking farmers practicing AWD to take pictures of the fields whenever the field is under a dry down. One issue is the cost of the farmer's time to take the pictures. But perhaps the bigger issue is that of spatial and temporal variability. Researchers at the University of Arkansas found that flooding status can be highly variable within a field's boundary, especially at the larger scale of US fields (that can be 40 hectares in size), even when fields are leveled.
+
+    So, as you mention in number 5, the remote sensing tool is the one we think can be most helpful in the MRV.
+
+    We have done some work with collaborators from other universities to detect flooding status using satellite data and it is one of the research lines we are looking for more funding.
+
+## Success Stories
+
+*Can you share an example of a successful rice carbon finance project or pilot that you have been involved in or are familiar with? What were the key factors (technical, financial, institutional) that contributed to its success, and what lessons can be drawn for scaling up similar efforts?*
+
+-   In November 24, AgriCapture announced the sale of 30,000 methane emission reduction credits from the U.S. Rice Methane Reduction Project. AgriCapture is focused only on rice supply chains.
+
+    -   Largely done I believe by promoting AWD and furrow irrigation
+
+    -   Adhering to Soil Enrichment Protocol
+
+    -   Verified and registered with Climate Action Reserve.
+
+    -   Rated with BeZero Carbon - A rating
+
+        -   Have to dig for rating methods
+
+    -   Not as concerned with permanence as project did not depend on carbon sequestration.
+
+        -   But they do put in place implementation agreements that serve as a contract to prevent practice reversals for 100 years.
+
+-   Question remains: is this a successful project? What is our metric of success?
+
+    -   That farmers received payments
+
+    -   That a credit was sold to the market
+
+    -   That practice is permanent and long lasting
+
+    -   How do we know
+
+## Ensuring Quality
+
+*What measures are needed to ensure high integrity and buyer confidence going forward? How are standards and methodologies evolving to address concerns, and what role can transparency and third-party verification play in maintaining credibility?*
+
+-   AgriCapture
+
+    -   implementation agreements that serve as a contract to prevent practice reversals for 100 years
+
+<!-- -->
+
+-   How transparent are third-party verification processes? Are they published? Or do you have to be a customer to find out?
+
+-   Transparency is an interesting quality. More transparency can increase trust, but it can also invite criticism and competition. I think overall it is better to be transparent.
+
+<!-- -->
+
+-   Field to Market has a standards committee.
+
+    -   Regularly meet, guide the standards in our own project frameworks, how can the next version of the Fieldprint Platform meet requirements from the GHG Protocol Land Sector Removals Guidance.
+
+## Scaling Up
+
+*Looking ahead, what is needed to significantly scale up carbon market initiatives for rice mitigation across different regions?*
+
+-   Related to the scale up, if carbon markets want to be implemented, we need these tools to validate that fields were indeed under dry conditions. Otherwise, it is not feasible to have farmers taking pictures of every field every day. Installing sensors is also expensive, and again they don’t capture the variability inside a field unless we deploy them in several locations.
+
+-   Is there a way to group together smallholder farmers for socialized credits? Can we pool together smallholder farmers into a larger cooperative, and the coop sells carbon credits, returning benefits back to the members of the coop? I don't know.
