@@ -1,6 +1,6 @@
 /.quarto/
 /_freeze/
-#/_site/
+#/docs/
 .Rproj.user
 .Rhistory
 .RData
