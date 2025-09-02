@@ -16,6 +16,8 @@ Field to Market is an alliance of organizations from all parts of the agricultur
 
 -   One characteristic challenge of creating a credit is maximizing the value of the credit while minimizing the cost of creating the credit. A well-designed carbon credit program would be one that has found a way to generate high quality, low risk credits with minimal MRV costs.
 
+-   Field to Market does have an Innovative Finance committee. They did a lot of work to use PCSC funds to help partners help the partner farmers. Bit of a setback this year, but still they are still working on incorporating economic pillars into the Regenerative Ag Guidance.
+
 ## Project Integrity
 
 *What do you see as the main challenges in developing credible rice carbon credit projects? For instance, how does your organization tackle issues of additionality and ensure accurate monitoring/verification of methane reductions in rice fields?*
@@ -42,7 +44,11 @@ Field to Market is an alliance of organizations from all parts of the agricultur
 
 -   If you voluntarily join a carbon project and adopt new practices, we can reward you with an additional package of benefits in addition to the payout from the carbon credit.
 
-    -   But if you don't voluntarily join a carbon project, can the government without certain benefits?
+    -   But if you don't voluntarily join a carbon project, can the certain benefits be withheld?
+
+        -   Sustainability-linked crop insurance or crop warranties
+
+        -   Topic of risk sharing noted by Innovative Finance and Standards committee in the context of the Regenerative Ag Guidance
 
 -   If a new regulation requires farmers to adopt a methane reducing practice, how would that impact the requirement of additionality in carbon markets?
 
@@ -137,6 +143,8 @@ One of the board members of Field to Market is actually a rice farmer, and he ha
 ## Scaling Up
 
 *Looking ahead, what is needed to significantly scale up carbon market initiatives for rice mitigation across different regions?*
+
+-   Making the case requires modeling at regional or national level. Modeling at the National level, for example, can be very limited by available data. I am thinking about this challenge more recently as we aim to release a new National level report by the end of next year, a report that attempts to show trends in multiple sustainability metrics, including GHG emissions over time
 
 -   Related to the scale up, if carbon markets want to be implemented, we need tools to validate that fields were indeed under dry conditions. Otherwise, it is not feasible to have farmers taking pictures of every field every day. Installing sensors is also expensive, and again they don’t capture the variability inside a field unless we deploy them in several locations.
 
