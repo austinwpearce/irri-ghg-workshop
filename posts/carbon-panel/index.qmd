@@ -4,11 +4,7 @@ author: Austin Pearce
 date: '2025-09-02'
 ---
 
--   The projects are fairly straightforward. Pay farmers to implement some AWD, verify with imagery that fields did indeed dry down, and make claims on the prevented/avoided emissions.
-
--   The CEO of AgriCapture, Tyler Hull, posts commentary on how he sees the space evolving.
-
--   CAR might have some documents about rice and projects
+Field to Market is an alliance of organizations from all parts of the agriculture value chain who work together to advance sustainable crop production in the the United States. Teams of staff support Field to Market’s members by convening and facilitating partnerships, creating scientific tools and insights, and delivering solutions for conservation projects and their farmers.
 
 ## Leveraging Markets
 
@@ -32,7 +28,7 @@ date: '2025-09-02'
 
     -   But in terms of project integrity, we have developed over the years and countless committee and workgroup meetings, our Fieldprint Project Framework that is based on consensus of our members from across the supply change.
 
-        -   We've had to update our standards over time as more standards and new standards emerge over time.
+        -   We look for ways to update our standards over time as more standards or new standards emerge, such as GHG Protocol LSRG.
 
 ## Policy Frameworks
 
@@ -86,6 +82,10 @@ One of the board members of Field to Market is actually a rice farmer, and he ha
 
 -   In November 24, AgriCapture announced the sale of 30,000 methane emission reduction credits from the U.S. Rice Methane Reduction Project. AgriCapture is focused only on rice supply chains.
 
+    -   In 2024 they reported paying out \$3.75 M to 50 farmers
+
+        -   That is about \$75k per farmer which seems high, but apparently happened.
+
     -   Largely done I believe by promoting AWD and furrow irrigation
 
     -   Adhering to Soil Enrichment Protocol
@@ -108,28 +108,36 @@ One of the board members of Field to Market is actually a rice farmer, and he ha
 
     -   That practice is permanent and long lasting
 
-    -   How do we know
+    -   Think of someone passing their driving test and getting a driving license. Are they a successful driver? Too soon to tell.
 
 ## Ensuring Quality
 
 *What measures are needed to ensure high integrity and buyer confidence going forward? How are standards and methodologies evolving to address concerns, and what role can transparency and third-party verification play in maintaining credibility?*
 
--   AgriCapture
+-   Returning to the AgriCapture example
 
     -   implementation agreements that serve as a contract to prevent practice reversals for 100 years
 
--   How transparent are third-party verification processes? Are they published? Or do you have to be a customer to find out?
-
--   Transparency is an interesting quality. More transparency can increase trust, but it can also invite criticism and competition. I think overall it is better to be transparent.
+-   How transparent are third-party verification processes?
 
 -   Field to Market has a standards committee.
 
     -   Regularly meet, guide the standards in our own project frameworks, how can the next version of the Fieldprint Platform meet requirements from the GHG Protocol Land Sector Removals Guidance.
+    -   Standards committee supported the decision to hire a 3rd party to assess our alignment with , and so that is something we will be pursuing.
+    -   We're transparent about this process
+
+-   Field to Market has also been transparent with revisions and additions to our Fieldprint Platform.
+
+    -   You could go online and see all the public comments we got back and how we responded
+
+    -   Transparency is an interesting quality. More transparency can increase trust, but it can also invite criticism and competition.
+
+        -   Nervous to admit to members there was an error in a calculation method that will increase the energy footprint of irrigation. But the new method is better. So we have to be confident that being transparent will help maintain trust.
 
 ## Scaling Up
 
 *Looking ahead, what is needed to significantly scale up carbon market initiatives for rice mitigation across different regions?*
 
--   Related to the scale up, if carbon markets want to be implemented, we need these tools to validate that fields were indeed under dry conditions. Otherwise, it is not feasible to have farmers taking pictures of every field every day. Installing sensors is also expensive, and again they don’t capture the variability inside a field unless we deploy them in several locations.
+-   Related to the scale up, if carbon markets want to be implemented, we need tools to validate that fields were indeed under dry conditions. Otherwise, it is not feasible to have farmers taking pictures of every field every day. Installing sensors is also expensive, and again they don’t capture the variability inside a field unless we deploy them in several locations.
 
 -   Is there a way to group together smallholder farmers for socialized credits? Can we pool together smallholder farmers into a larger cooperative, and the coop sells carbon credits, returning benefits back to the members of the coop? I don't know.
