@@ -1,11 +1,6 @@
----
-title: Tagalog for Agriculture
-author: Austin Pearce
-date: '2025-08-06'
-description: "Ano ang 'farmer' sa Tagalog?"
-image: "Guagua-Rice-Harvest-2010-Nov.jpg"
-lightbox: true
----
+# Tagalog for Agriculture
+Austin Pearce
+2025-09-01
 
 # Glossary
 
@@ -14,12 +9,12 @@ lightbox: true
 | air                             | h**a**ngin                         |
 | boots (rubber)                  | b**o**tas                          |
 | blue                            | bugh**a**w/as**u**l                |
-| brown                           | kaymanggi'/bra**u**n/tsokol**a**te |
+| brown                           | kaymanggi’/bra**u**n/tsokol**a**te |
 | carabow/water buffalo           | kalab**a**w                        |
 | cloud/fog                       | **u**lap                           |
 | cold                            | malam**i**g                        |
 | color                           | kulay                              |
-| creek/stream                    | s**a**pa'                          |
+| creek/stream                    | s**a**pa’                          |
 | dark (brightness)               | madilim                            |
 | dark/black (color)              | maitim                             |
 | dawn/sunrise                    | madal**i**ng-**a**raw              |
@@ -32,7 +27,7 @@ lightbox: true
 | field                           | b**u**kid                          |
 | fire/flame                      | ap**o**y                           |
 | flower                          | bulakl**a**k                       |
-| foul-smelling                   | mab**a**ho'                        |
+| foul-smelling                   | mab**a**ho’                        |
 | forest                          | g**u**bat                          |
 | fragrant                        | mabang**o**                        |
 | fruit                           | b**u**nga                          |
@@ -70,7 +65,7 @@ lightbox: true
 | scythe/sickle                   | k**a**rit                          |
 | shallow                         | mab**a**baw                        |
 | sky                             | l**a**ngit                         |
-| soil                            | l**u**pa'                          |
+| soil                            | l**u**pa’                          |
 | soy bean                        | bal**a**tong                       |
 | stem/branch                     | sang**a**                          |
 | stone                           | bat**o**                           |
@@ -83,8 +78,11 @@ lightbox: true
 | wind/windy                      | h**a**ngin/mah**a**ngin            |
 | yellow                          | dil**a**w                          |
 
-[^1]: as in light from the sun.
+<div class="column-screen">
 
-::: column-screen
-![](Guagua-Rice-Harvest-2010-Nov.jpg){fig-align="center" width="1920"}
-:::
+<img src="Guagua-Rice-Harvest-2010-Nov.jpg" data-fig-align="center"
+width="1920" />
+
+</div>
+
+[^1]: as in light from the sun.

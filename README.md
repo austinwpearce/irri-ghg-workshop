@@ -1,15 +1,7 @@
-# quarto-web-template
+# IRRI GHG Workshop
 
-A quicker start to a Quarto website
+Sep 1 - 5, 2025 @ IRRI in Los Banos, Philippines
 
-# How to preview website locally
+## Panel on Carbon Markets
 
-```         
-quarto preview
-```
-
-# How to publish public Quarto docs to website
-
-```         
-quarto publish gh-pages
-```
+[Prepared notes](carbon-panel.qmd)
