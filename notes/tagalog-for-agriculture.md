@@ -1,8 +1,7 @@
 # Tagalog for Agriculture
-Austin Pearce
-2025-09-01
 
-# Glossary
+
+## Glossary
 
 | English                         | Tagalog                            |
 |---------------------------------|------------------------------------|
@@ -80,8 +79,8 @@ Austin Pearce
 
 <div class="column-screen">
 
-<img src="Guagua-Rice-Harvest-2010-Nov.jpg" data-fig-align="center"
-width="1920" />
+<img src="images/Guagua-Rice-Harvest-2010-Nov.jpg"
+data-fig-align="center" width="1920" />
 
 </div>
 

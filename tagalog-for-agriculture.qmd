@@ -1,7 +1,5 @@
 ---
 title: Tagalog for Agriculture
-author: Austin Pearce
-date: '2025-09-01'
 description: "Ano ang 'farmer' sa Tagalog?"
 image: "Guagua-Rice-Harvest-2010-Nov.jpg"
 lightbox: true
@@ -86,5 +84,5 @@ lightbox: true
 [^1]: as in light from the sun.
 
 ::: column-screen
-![](Guagua-Rice-Harvest-2010-Nov.jpg){fig-align="center" width="1920"}
+![](images/Guagua-Rice-Harvest-2010-Nov.jpg){fig-align="center" width="1920"}
 :::

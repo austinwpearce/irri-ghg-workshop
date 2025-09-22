@@ -1,6 +1,12 @@
+project: 
+  type: website
+  output-dir: notes
+  render: 
+    - "*.qmd"
+
 format:
   gfm:
-    shift-heading-level-by: 0
+    shift-heading-level-by: 1
 
 execute: 
   freeze: auto

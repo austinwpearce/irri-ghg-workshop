@@ -1,8 +1,6 @@
-
-
 # Carbon-Panel
 
-Austin Pearce 2025-09-02
+2025-09-02
 
 Field to Market is an alliance of organizations from all parts of the
 agriculture value chain who work together to advance sustainable crop
@@ -11,7 +9,7 @@ Market’s members by convening and facilitating partnerships, creating
 scientific tools and insights, and delivering solutions for conservation
 projects and their farmers.
 
-## Leveraging Markets
+### Leveraging Markets
 
 *How can carbon markets be leveraged to drive the adoption of
 climate-smart rice farming practices at scale?*
@@ -36,7 +34,7 @@ objectives?*
   farmers. Bit of a setback this year, but still they are still working
   on incorporating economic pillars into the Regenerative Ag Guidance.
 
-## Project Integrity
+### Project Integrity
 
 *What do you see as the main challenges in developing credible rice
 carbon credit projects? For instance, how does your organization tackle
@@ -60,7 +58,7 @@ methane reductions in rice fields?*
     - We look for ways to update our standards over time as more
       standards or new standards emerge, such as GHG Protocol LSRG.
 
-## Policy Frameworks
+### Policy Frameworks
 
 *How can government policy or regulations support the integration of
 rice agriculture into carbon markets? Are there any countries
@@ -91,7 +89,7 @@ creating incentives to boost such projects?*
   - All of a sudden, the methane reductions are incentivized through
     penalties instead of rewards.
 
-## Farmer Engagement
+### Farmer Engagement
 
 *Carbon projects often require changes at the farm level. How do project
 developers or programs effectively engage rice farmers and ensure they
@@ -127,7 +125,7 @@ warming can be abstract, but saving on irrigation pumping costs is
 tangible. Maybe there is a lesson there when it comes to selling carbon
 programs to farmers.
 
-## Innovations in MRV
+### Innovations in MRV
 
 *Measuring emissions from many small rice paddies can be complex. What
 new tools or innovations (such as digital MRV, remote sensing, or mobile
@@ -152,7 +150,7 @@ feasibility?*
   detect flooding status using satellite data and it is one of the
   research lines we are looking for more funding.
 
-## Success Stories
+### Success Stories
 
 *Can you share an example of a successful rice carbon finance project or
 pilot that you have been involved in or are familiar with? What were the
@@ -197,7 +195,7 @@ efforts?*
   - Think of someone passing their driving test and getting a driving
     license. Are they a successful driver? Too soon to tell.
 
-## Ensuring Quality
+### Ensuring Quality
 
 *What measures are needed to ensure high integrity and buyer confidence
 going forward? How are standards and methodologies evolving to address
@@ -235,7 +233,7 @@ play in maintaining credibility?*
       the new method is better. So we have to be confident that being
       transparent will help maintain trust.
 
-## Scaling Up
+### Scaling Up
 
 *Looking ahead, what is needed to significantly scale up carbon market
 initiatives for rice mitigation across different regions?*
